@@ -1,0 +1,33 @@
+# Pihole block facebook domain 
+
+0.0.0.0 accountkit.com
+0.0.0.0 acebook.com
+0.0.0.0 faacebook.com
+0.0.0.0 facebbook.com
+0.0.0.0 facebookcareers.com
+0.0.0.0 facebook.co
+0.0.0.0 facebook.com
+0.0.0.0 facebook.com.au
+0.0.0.0 facebook.com.mx
+0.0.0.0 facebook-dns.com
+0.0.0.0 facebookenterprise.com
+0.0.0.0 facebook-hardware.com
+0.0.0.0 facebook.it
+0.0.0.0 facebookmail.com
+0.0.0.0 facebook.net
+0.0.0.0 facebookrecruiting.com
+0.0.0.0 facebookstudy.com
+0.0.0.0 facebookvirtualassistant.com
+0.0.0.0 fb.audio
+0.0.0.0 fbcdn.net
+0.0.0.0 fb.com
+0.0.0.0 fbe2e.com
+0.0.0.0 fb.gg
+0.0.0.0 fbinfra.net
+0.0.0.0 fb.me
+0.0.0.0 fbpigeon.com
+0.0.0.0 fbsbx.com
+0.0.0.0 fbthirdpartypixel.com
+0.0.0.0 fb.watch
+0.0.0.0 fbwat.ch
+0.0.0.0 m-freeway.com
